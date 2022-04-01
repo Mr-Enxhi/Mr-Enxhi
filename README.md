@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mr-Enxhi
-- 🌱 I’m currently learning JavaScript,CSS,HTML
+- 🌱 I’m currently learning Swift
 
 <!---
 Mr-Enxhi/Mr-Enxhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
